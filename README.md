@@ -1,6 +1,6 @@
 # NODEJS Crash Course
 
-Welcome to the Node.js Crash Course! In this crash course, we will delve into Node.js fundamentals, covering modules such as `path`, `url`, `fs`, and `events`. Additionally, we will walk through the process of creating an HTTP server from scratch without relying on Express.
+The basic concepts in Node.js are explored in a comprehensive manner. The course focuses on core modules such as `path`, `url`, `fs`, and `events` and sheds light on their important role in Node.js development. A highlight is the step-by-step creation of an HTTP server without relying on the popular Express framework. I have acquired a foundational understanding of Node.js and discovered how to harness its inherent modules for effective web development. Constructing an HTTP server from the ground up has equipped me with the essential skills to work independently with Node.js.
 
 ## What is Node.JS?
 
